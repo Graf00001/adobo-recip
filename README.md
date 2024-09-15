@@ -1,5 +1,6 @@
-# adobo-recip
+Recipe for various delicious food
 
-Adobo Recip
-
-How to cook Adobo
+1. Adobo
+2. Fried Chicken
+3. Bulalo
+4. Beef Steak
